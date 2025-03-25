@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hello! I'm a passionate Frontend Developer who loves creating high-performance and visually stunning web applications.</p>
+<p align="left">👋 Hello There! I'm a passionate Frontend Developer who loves creating high-performance and visually stunning web applications.</p>
 
 ###
 
